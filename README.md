@@ -1,4 +1,4 @@
-# Life + Health Study: Analytic Dataset
+# Life + Health Study: Analytic Dataset [![](<https://img.shields.io/badge/Dataverse DOI-10.7910/DVN/QNJV0A-orange>)](https://doi.org/10.7910/DVN/QNJV0A)
 
 ## Grant Information
 
@@ -103,3 +103,8 @@ This repository uses **multiple licenses**:
 -   **Study materials and survey instruments** in `study_materials/` are licensed under the **Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)**.
 
 See the `LICENSE` file and the `study_materials/LICENSE.txt` file for details.
+
+## Citation
+If you use code or sudy materials from this repository, please cite it as follows:
+
+Krieger, Nancy; Chen, Jarvis; Reisner, Sari; LeBlanc, Merrily; Johnson, Nykesha; Matthews, Margaret; Marini, Maddalena; Mayer, Kenneth; Bright, Donna; Oendari, Apriani; Valdez, Guale; Khan, Tanveer; Waterman, Pamela; Testa, Christian, 2026, "Life + Health Study: Advancing novel methods to measure and analyze multiple types of discrimination for population health research (R01 MD012793, 2019–2026)", https://doi.org/10.7910/DVN/QNJV0A, Harvard Dataverse.
